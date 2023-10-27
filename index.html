@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang='es' ng-app="miApp">
+    <head>
+        <meta charset='UTF-8'>
+        <title>La Casa del Libro</title>
+        <link rel="icon" href="imgs/faviconMistborn.png">    
+        <script src="https://cdn.tailwindcss.com"></script>
+        <style>
+            .scrollbar-container::-webkit-scrollbar {
+            width: 2vh;
+            }
+
+            .scrollbar-container::-webkit-scrollbar-thumb {
+            background-color: #1f2c3e; 
+            border-radius: 6px;
+            }
+
+            .scrollbar-container::-webkit-scrollbar-thumb:hover {
+            background-color: #c7893e;
+            }
+
+            .scrollbar-container::-webkit-scrollbar-track {
+            background-color: transparent;
+            }
+            #miDiv {
+            background-image: url('https://i0.wp.com/midac.es/wp-content/uploads/2021/12/cover6.png?resize=709%2C548&ssl=1');
+            background-size: cover; /* Otras propiedades opcionales */
+            background-position: center;
+            background-repeat: no-repeat;
+            }
+        </style>
+    </head>
+    <body ng-controller="mainController">
+        <div class="w-full text-[2.5vh] grid grid-cols-3 h-[100vh] text-[#D9D9CC] bg-[#0a0b0e]">
+            <div class="flex flex-col col-span-1">
+                <img class="w-[30%] mx-auto mt-10 rounded-t-full rounded-b-3xl shadow-xl shadow-[#1f2c3e] border-[#1f2c3e]" src="imgs/f3martos.jpg" alt="principal">                
+                <div class="mx-auto">
+                    <input ng-model="nombre" name="addGroupNombre" id="addGroupNombre" placeholder="Buscar..." class="w-[60%] mx-auto mt-10 bg-[#1f2c3e] pl-[1vh] pr-[1vh] py-[1vh] rounded-[2vh]">
+                    <select class="text-[#c7893e] bg-[#1f2c3e] rounded-[2vh] text-[2vh]" name="" id="" ng-model="filtro">
+                        <option value="titulo" selected>Titulo</option>
+                        <option value="autor">Autor</option>
+                        <option value="editorial">Editorial</option>
+                        <option value="descripcion">Descripcion</option>
+                    </select>
+                </div>
+                <div class="mt-[5vh] w-[55vh] h-[40vh] self-center border rounded-md border-[#c7893e]">
+                    <h1 class="text-[#c7893e] text-[5vh] text-center p-[2vh]">Libros disponibles</h1>
+                    <ul class="w-full h-[27vh] overflow-x-hidden scrollbar-container">
+                        <li class=" bg-[#1f2c3e] cursor-pointer m-[1vh] rounded-md p-[1vh]" ng-repeat="libro in libros | filter:nombre | orderBy:filtro" ng-click="redireccionar(libro.id)">
+                           {{ libro.titulo }}
+                        </li>
+                    </ul>
+                </div>
+                <div class="mt-[3vh] w-[15vh] h-[15vh] rounded-full flex items-center self-center border border-[#c7893e]"> 
+                    <a href="index.html"><img class="mx-auto w-[50%] h-[50%]" src="imgs/casa.png"></a>
+                </div>
+            </div>
+            <div class="grid col-span-2">
+                <div class="mt-[8%] w-[80%] h-[80%] mx-auto bg-[#1f2c3e] rounded-3xl " ng-view></div>
+            </div>
+        </div>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.7/angular.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.3/angular-route.js"></script>
+    <script src="controllers/mainController.js"></script>
+</body>
+</html>

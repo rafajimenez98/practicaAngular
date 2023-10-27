@@ -1,0 +1,162 @@
+[
+    {
+        "id": "1",
+        "titulo": "El Juego de Ender",
+        "autor": "Orson Scott Card",
+        "editorial": "Ediciones B / Zeta",
+        "descripcion": "La Tierra está amenazada por una especie extraterrestre de insectos que pretende destruir la humanidad. Para vencerlos se precisa la intervención de un genio militar, por lo cual se permite el nacimiento de Ender, tercer hijo de una pareja en un mundo que limita a dos el número de descendientes. Ender se entrenará en una estación espacial, superará a sus rivales y se convertirá en la persona capaz de dirigir las flotas terrestres contra los insectos de otros mundos.",
+        "img": "https://m.media-amazon.com/images/I/4112ZnvAI3L.jpg"
+    },
+    {
+        "id": "2",
+        "titulo": "Canción de hielo y fuego",
+        "autor": "George R. R. Martin",
+        "editorial": "Gigamesh",
+        "descripcion": "Tras el largo verano, el invierno se acerca a los Siete Reinos. Lord Eddard Stark, señor de Invernalia, deja sus dominios para unirse a la corte de su amigo el rey Robert Baratheon, llamado el Usurpador, hombre díscolo y otrora guerrero audaz cuyas mayores aficiones son comer, beber y engendrar bastardos. Eddard Stark ocupará el cargo de Mano del Rey e intentará desentrañar una maraña de intrigas que pondrá en peligro su vida y la de todos los suyos.",
+        "img": "https://m.media-amazon.com/images/I/71wcxyxVZHL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": "3",
+        "titulo": "I robot",
+        "autor": "Isaac Asimov",
+        "editorial": "Edhasa",
+        "descripcion": "Los robots de Isaac Asimov son máquinas capaces de llevar a cabo muy diversas tareas, y que a menudo se plantean a sí mismos problemas de 'conducta humana'. Pero estas cuestiones se resuelven en Yo, robot en el ámbito de las tres leyes fundamentales de la robótica, concebidas por Asimov, y que no dejan de proponer extraordinarias paradojas que a veces se explican por errores de funcionamiento y otras por la creciente complejidad de los 'programas'.",
+        "img": "https://m.media-amazon.com/images/I/51-hEP+ckTL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": "4",
+        "titulo": "Elantris",
+        "autor": "Brandon Sanderson",
+        "editorial": "Ediciones B",
+        "descripcion": "\"Elantris\" es una novela de fantasía que se desarrolla en la ciudad mágica de Elantris. Una vez una ciudad llena de dioses y magia, Elantris ahora está maldita, y sus habitantes se convierten en seres decrépitos. Raoden, un príncipe, se encuentra atrapado en Elantris y lucha por descubrir el misterio detrás de la maldición.",
+        "img": "https://m.media-amazon.com/images/I/81XE08B76cL._SL1500_.jpg"
+    },
+    {
+        "id": "5",
+        "titulo": "El héroe de las eras",
+        "autor": "Brandon Sanderson",
+        "editorial": "Ediciones B",
+        "descripcion": "En un mundo donde un Lord Tirano gobierna con un poder oscuro, Vin, una joven con habilidades mágicas, se une a un grupo de rebeldes llamados los \"Forasteros\". Juntos, buscan derrocar al Lord Tirano y restaurar la justicia en su mundo.",
+        "img": "https://m.media-amazon.com/images/I/81c5VPXgDqL._SL1500_.jpg"
+    },
+    {
+        "id": "6",
+        "titulo": "El camino de los reyes",
+        "autor": "Brandon Sanderson",
+        "editorial": "Ediciones B",
+        "descripcion": "Esta es la primera entrega de la épica serie \"El Archivo de las Tormentas\". La historia se centra en un mundo asolado por tormentas constantes y enfrentamientos entre naciones. Kaladin, un esclavo convertido en guerrero, y Shallan, una joven con un oscuro secreto, son dos de los personajes clave en esta saga.",
+        "img": "https://m.media-amazon.com/images/I/51Qh9KpS2CL.jpg"
+    },
+    {
+        "id": "7",
+        "titulo": "El imperio final",
+        "autor": "Brandon Sanderson",
+        "editorial": "Ediciones B",
+        "descripcion": "La historia se desarrolla en un mundo donde la magia se manifiesta a través de la ingestión de metales. Vin, una joven con poderes alománticos, se une a un grupo de ladrones que planea derrocar al Señor Soberano y liberar al imperio de su tiranía.",
+        "img": "https://m.media-amazon.com/images/I/510Jr2WDIPL.jpg"
+    },
+    {
+        "id": "8",
+        "titulo": "El aliento de los dioses",
+        "autor": "Brandon Sanderson",
+        "editorial": "Ediciones B",
+        "descripcion": "En un mundo donde las personas pueden donar y transferir su aliento, Vasher, un ser inmortal, se embarca en una misión para desentrañar los secretos de la magia y enfrentar una amenaza antigua.",
+        "img": "https://m.media-amazon.com/images/I/61QZ5RkpulL._SL1200_.jpg"
+    },
+    {
+        "id": "9",
+        "titulo": "La mano izquierda de la oscuridad",
+        "autor": "Ursula K. Le Guin",
+        "editorial": "Ace Books",
+        "descripcion": "La mano izquierda de la oscuridad es una novela de ciencia ficción que forma parte del Ciclo de Hainish. La historia sigue a Genly Ai, un embajador en el planeta Gethen, donde la mayoría de los habitantes son ambisexuales. La novela aborda temas de género y sociedad.",
+        "img": "https://www.planetadelibros.com/usuaris/libros/thumbs/55bfd168-4e93-49a9-a0b8-dd11e902c57b/d_295_510/portada_la-mano-izquierda-de-la-oscuridad_ursula-k-le-guin_202006041508.webp"
+    },
+    {
+        "id": "10",
+        "titulo": "Hyperion",
+        "autor": "Dan Simmons",
+        "editorial": "Doubleday",
+        "descripcion": "Hyperion es la primera novela de una serie de ciencia ficción. La historia sigue a siete peregrinos que viajan a través de un mundo en decadencia en busca de un enigmático ser llamado El Alcaudón. Cada peregrino narra su historia, lo que da lugar a un relato complejo y fascinante.",
+        "img": "https://m.media-amazon.com/images/I/51lekAm2M9L.jpg"
+    },
+    {
+        "id": "11",
+        "titulo": "Snow Crash",
+        "autor": "Neal Stephenson",
+        "editorial": "Bantam Books",
+        "descripcion": "Snow Crash es una novela de ciencia ficción que mezcla elementos de cyberpunk y posciberpunk. La trama sigue a Hiro Protagonist, un repartidor de pizza y hacker, mientras se enfrenta a una droga virtual llamada Snow Crash que amenaza con controlar la mente de los usuarios.",
+        "img": "https://m.media-amazon.com/images/I/91NrsGzBjUL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": "12",
+        "titulo": "El color de la magia",
+        "autor": "Terry Pratchett",
+        "editorial": "Colin Smythe",
+        "descripcion": "El color de la magia es la primera novela de la serie Mundodisco. La historia sigue las peripecias del inepto mago Rincewind y el turista ingenuo Dosflores mientras viajan por un mundo plano y extravagante. La serie es conocida por su humor y sátira.",
+        "img": "https://m.media-amazon.com/images/I/91c9RGsLWdL._SL1500_.jpg"
+    },
+    {
+        "id": "13",
+        "titulo": "El cazador de sueños",
+        "autor": "Stephen King",
+        "editorial": "Scribner",
+        "descripcion": "El cazador de sueños es una novela de terror y ciencia ficción. La historia sigue a un grupo de amigos que se reúnen en un refugio para cazar, pero se encuentran con una presencia alienígena aterradora. La novela explora la amistad y el horror cósmico.",
+        "img": "https://m.media-amazon.com/images/I/51sq5wfZk+L.jpg"
+    },
+    {
+        "id": "14",
+        "titulo": "La carretera",
+        "autor": "Cormac McCarthy",
+        "editorial": "Alfred A. Knopf",
+        "descripcion": "La carretera es una novela postapocalíptica que sigue a un padre y su hijo mientras viajan a través de un mundo desolado en busca de seguridad. La novela es sombría y conmovedora, explorando la relación entre el padre y el hijo en un mundo devastado.",
+        "img": "https://ciervoblanco.club/wp-content/uploads/2014/08/28318776.jpg"
+    },
+    {
+        "id": "15",
+        "titulo": "Canción de Kali",
+        "autor": "Dan Simmons",
+        "editorial": "Bluejay Books",
+        "descripcion": "Canción de Kali es una novela de terror y fantasía que sigue a un escritor que viaja a la India con su esposa e hija. Allí, se encuentra con una secta adoradora de la diosa Kali y descubre horrores sobrenaturales. La novela es una exploración del choque cultural y el misticismo.",
+        "img": "https://images.cdn3.buscalibre.com/fit-in/360x360/41/11/411111c986fc593e473d1b9766bef70d.jpg"
+    },
+    {
+        "id": "16",
+        "titulo": "El corredor del laberinto",
+        "autor": "James Dashner",
+        "editorial": "Delacorte Press",
+        "descripcion": "El corredor del laberinto es el primer libro de una serie distópica. La historia sigue a un grupo de jóvenes que se encuentran atrapados en un laberinto mortal sin memoria de cómo llegaron allí. Deben encontrar una manera de escapar mientras descubren los secretos del laberinto.",
+        "img": "https://www.nocturnaediciones.com/imagenes/biblioteca/55_alta.jpg"
+    },
+    {
+        "id": "17",
+        "titulo": "Los juegos del hambre",
+        "autor": "Suzanne Collins",
+        "editorial": "Scholastic",
+        "descripcion": "Los juegos del hambre es el primer libro de una trilogía distópica. La historia se desarrolla en un futuro en el que los jóvenes son obligados a participar en un juego mortal de supervivencia. Katniss Everdeen se convierte en la heroína de la serie mientras lucha contra el Capitolio opresor.",
+        "img": "https://m.media-amazon.com/images/I/71e4kjCsuAL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": "18",
+        "titulo": "Altered Carbon",
+        "autor": "Richard K. Morgan",
+        "editorial": "Gollancz",
+        "descripcion": "Altered Carbon es una novela de ciencia ficción ciberpunk. La historia se desarrolla en un futuro en el que la conciencia humana puede transferirse a nuevos cuerpos. Takeshi Kovacs, un exsoldado, se ve envuelto en una investigación de asesinato en un mundo de corrupción y tecnología avanzada.",
+        "img": "https://cdn11.bigcommerce.com/s-65f8qukrjx/images/stencil/1280x1280/products/6536/7778/altered_carbon_cover__90588.1687451120.jpg"
+    },
+    {
+        "id": "19",
+        "titulo": "La carretera de los huesos",
+        "autor": "Mary Gentle",
+        "editorial": "Bantam Books",
+        "descripcion": "La carretera de los huesos es una novela de fantasía histórica. La historia sigue a un mercenario llamado Valentine mientras lucha en la Guerra de los Treinta Años. La novela combina elementos de historia, fantasía y aventura.",
+        "img": "https://static.serlogal.com/imagenes_big/9788418/978841835977.JPG"
+    },
+    {
+        "id": "20",
+        "titulo": "El ciclo de Drenai: Leyenda",
+        "autor": "David Gemmell",
+        "editorial": "Del Rey Books",
+        "descripcion": "Leyenda es la primera novela del ciclo de Drenai, una serie de fantasía épica. La historia sigue a Druss, un guerrero legendario, mientras lidera una defensa desesperada contra un ejército invasor. La novela está llena de acción, personajes memorables y temas de honor y valentía en tiempos de guerra.",
+        "img": "https://static.serlogal.com/imagenes_big/9788418/978841835977.JPG"
+        }
+]
